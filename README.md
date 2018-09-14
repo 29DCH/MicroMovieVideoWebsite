@@ -1,2 +1,2 @@
 # MicroMovieVideoWebsite
-python用flask框架构建的微电影视频网站
+python用flask框架构建的视频网站
